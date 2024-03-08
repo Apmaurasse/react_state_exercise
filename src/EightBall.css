@@ -1,0 +1,12 @@
+.eightBallButton {
+    width: 400px;
+    height: 400px; 
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    text-align: center; 
+    line-height: 50px; 
+    display: inline-block; 
+    text-decoration: none; 
+  }
+  
